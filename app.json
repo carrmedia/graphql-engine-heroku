@@ -13,13 +13,5 @@
   "success_url": "/console",
   "website": "https://hasura.io",
   "repository": "https://github.com/carrmedia/graphql-engine-heroku",
-  "stack": "container",
-  "addons": [
-    {
-      "plan": "heroku-postgresql",
-      "options": {
-        "version": "9.5"
-      }
-    }
-  ]
+  "stack": "container"
 }
